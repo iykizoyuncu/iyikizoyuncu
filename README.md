@@ -1,5 +1,5 @@
 # 💫 About Me:
- 💫 About Me:<br>  <br> My name is Ege and CyberSecurity is my favorite thing
+ 💫 About Me:<br>  <br> I'm Ege, a cybersecurity enthusiast driven by a mission to protect digital ecosystems and build resilient systems.
 
 
 ## 🌐 Socials:

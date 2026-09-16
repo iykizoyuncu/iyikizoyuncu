@@ -33,13 +33,6 @@ Hi! I'm **Ege**, a cybersecurity enthusiast & software developer driven by a mis
 
 ### 🛡️ Cybersecurity & Cloud
 <img src="https://img.shields.io/badge/SPLUNK-000000?style=for-the-badge&logo=splunk&logoColor=white" /> <img src="https://img.shields.io/badge/AZURE-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/WIRESHARK-167DA4?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
-### ⚡ Programming & Development
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/REACT_NATIVE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-### 🗄️ Databases & Tools
-<img src="https://img.shields.io/badge/POSTGRES-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/MONGO-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-
 <br>
 
 ---

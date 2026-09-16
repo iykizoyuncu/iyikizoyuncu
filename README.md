@@ -19,9 +19,9 @@ Hi! I'm **Ege**, a cybersecurity enthusiast & software developer driven by a mis
 
 <td width="40%" valign="top" align="center">
   <img
-    src="https://your-animated-gif-link-here.gif"
+    src="https://github.com/user-attachments/assets/b9634801-52cb-4836-a023-a53e5435106a"
     width="100%"
-    alt="Profile animation"
+    alt="Ege profile photo"
     style="border-radius: 16px; border: 1px solid #30363d; object-fit: cover;"
   />
 </td>

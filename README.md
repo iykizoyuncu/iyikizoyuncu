@@ -3,14 +3,13 @@
     <!-- PARMAĞIN GÖSTERDİĞİ SOL TARAF (ABOUT ME) -->
     <td valign="top" width="65%">
       
-      <h2>💫 About Me:</h2>
-      <p>
+      💫 About Me:
+      
         Im a software engineer working with fullstack applications. Specializing in mobile app development. I also create content or support fellow programmers.
         <!-- BURAYA KENDİ METNİNİ YAZABİLİRSİN -->
-      </p>
+      
 
       <br>
-
       <h2>🌐 Socials:</h2>
       <p>
         <a href="[INSTAGRAM-LINKINIZ]"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
